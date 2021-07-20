@@ -23,6 +23,7 @@ https://user-images.githubusercontent.com/22285365/125189745-9f33fc00-e274-11eb-
 https://www.youtube.com/watch?v=YEDAEdo8k30
 
 # エナジー
+https://user-images.githubusercontent.com/22285365/126343688-ef9be8c7-8129-4121-b86a-20790a44c1bc.mp4
 
 ## 参考URL（https://domicarcatan.pinoko.jp/category/program/unity/page/12/）
 https://domicarcatan.pinoko.jp/2021/03/21/unity_shadergraph02/
