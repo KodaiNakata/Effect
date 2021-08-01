@@ -36,3 +36,9 @@ https://user-images.githubusercontent.com/22285365/126890595-6ba52a45-304a-4cf5-
 
 ## 参考URL
 https://www.youtube.com/watch?v=QiG6xs-rLvA
+
+# ビーム（※ShapeパネルのShapeをEdgeにしています）
+https://user-images.githubusercontent.com/22285365/127773148-b6e366e1-f490-40ab-914d-c9fbff287ba4.mp4
+
+## 参考URL
+https://r-ngtm.hatenablog.com/entry/2017/05/29/162730
